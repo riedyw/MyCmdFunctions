@@ -9,7 +9,7 @@ REM VerHistory:  NA as this is the first release
 REM Usage:
 REM     LongNamePath.cmd /?       - To display help
 REM     LongNamePath.cmd          - To display longname of current folder
-REM     LongNamePath.cmd filename - To display longname of specified file 
+REM     LongNamePath.cmd filename - To display longname of specified file
 REM Requires:    Must have write and delete privileges to location of %TEMP%
 
 setlocal
