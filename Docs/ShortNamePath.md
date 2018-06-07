@@ -1,5 +1,5 @@
 # ShortNamePath.md
-Documentation for ShortNamePath.cmd
+Documentation for `ShortNamePath.cmd`
 ## Overview
 Will get explicit full short name of specified file or directory, whether relative or full path. The file or path **must** exist.
 

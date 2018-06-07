@@ -1,4 +1,5 @@
-# CopyNul.md - Documentation for CopyNul.cmd
+# CopyNul.md
+Documentation for `CopyNul.cmd`
 ## Overview
 
 Will search the current folder structure for specific file or file specification and copy to the NUL device. Use to unstick virus scan. Sets ERRORLEVEL based on execution.

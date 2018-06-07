@@ -1,5 +1,5 @@
 # Test-IsAdmin.md
-Documentation for Test-IsAdmin.cmd
+Documentation for `Test-IsAdmin.cmd`
 ## Overview
 Used to determine if the command prompt is elevated (Run as Administrator). Sets ERRORLEVEL to specific value. See code or Test-IsAdmin.cmd /? for usage screen.
 

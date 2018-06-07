@@ -1,5 +1,5 @@
 # LongNamePath.md 
-Documentation for LongNamePath.cmd
+Documentation for `LongNamePath.cmd`
 ## Overview
 Will get explicit full long name of specified file or directory, whether relative or full path.
 
